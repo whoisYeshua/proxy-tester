@@ -1,0 +1,9 @@
+{
+  "delay": 50,
+  "url": "https://brandshop.ru/",
+  "timeout": 5000,
+  "thresholds": {
+    "good": 500,
+    "bad": 1500
+  }
+}
